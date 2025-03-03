@@ -1,0 +1,1 @@
+print("Hello Kenyans it is very hot")
